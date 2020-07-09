@@ -1,0 +1,10 @@
+{
+  "name": "barcodeInput",
+  "version": "1.0.0",
+  "description": "this is designed to protect input from a barcode reader",
+  "main": "barcodeInput.js",
+  "repository": "git@github.com:marcus7777/barcodeInput.git",
+  "author": "Marcus Hitchins <marcus@418.dev>",
+  "license": "MIT",
+  "private": false
+}
