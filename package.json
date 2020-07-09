@@ -1,5 +1,5 @@
 {
-  "name": "barcodeInput",
+  "name": "barcode-input",
   "version": "1.0.0",
   "description": "this is designed to protect input from a barcode reader",
   "main": "barcodeInput.js",
